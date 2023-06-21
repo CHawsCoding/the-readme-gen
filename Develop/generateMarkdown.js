@@ -49,7 +49,7 @@ function renderLicenseSection(license) {
       break;
     // Add more cases for other licenses as needed
     default:
-      section = '';
+      section = 'none';
       break;
   }
   return section;
