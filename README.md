@@ -1,4 +1,56 @@
-# 09 Node.js Challenge: Professional README Generator
+# THE-README-GEN
+
+the goal of this project was to take the starter code provided by the coding bootcamp. and turn it into a functional README generator. The accaptence criteria was clearly laid out in the README provided in the original source code provided by the course - I will keep that README at the bottom for reference and add it to the table of contents.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Criteria](#criteria)
+
+
+## Installation
+
+In order to install this to use it yourself, you will need to have node.js installed. you will also need to clone the code and install [Inquire](https://www.npmjs.com/package/inquirer/v/8.2.4). 
+
+## Usage
+
+Once you have met the installation requirements for the project you will be able to use is by running 'node index' in the terminal which will initialize the program and begin asking you for the information needed to generate the README. once you have completed all of the sections, the README will be automatically generated. 
+
+## License
+
+NONE
+
+## Contributing
+
+This project is public and you are free to clone and modify it to your liking. however, To contribute to this project specifically please contact me at: collinrayhaws@gmail.com
+
+## Tests
+
+To test the functionality of the README generator, follow these steps:
+
+*Make sure you have Node.js installed on your machine.
+*Open your terminal or command prompt.
+*Navigate to the project directory.
+*Install the project dependencies by running the following command:
+
+npm install
+
+Once these steps are done you can run the actual README generator using the follwoing command:
+
+node index
+
+## Questions
+
+For questions about the project please contact me at: collinrayhaws@gmail.com
+
+## Criteria
+
+See below for the orignal README from the source code with the outlined acceptance criteria.
 
 ## Your Task
 
